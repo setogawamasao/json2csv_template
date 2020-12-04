@@ -1,0 +1,20 @@
+[
+  {
+    "jan": "001",
+    "name": "spam",
+    "price": 1000,
+    "description": "spam, spam"
+  },
+  {
+    "jan": "102",
+    "name": "hoge",
+    "price": 2000,
+    "description": "hoge hoge"
+  },
+  {
+    "jan": "203",
+    "name": "fuga",
+    "price": 3000,
+    "description": "fuga fuga"
+  }
+]
